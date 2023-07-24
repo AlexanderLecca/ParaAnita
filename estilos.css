@@ -7,9 +7,8 @@ div{
     width: 100%;
 }
 .contenedor{
-    background-image: url(imagene/editada.png);
-    background-repeat:no-repeat;
-    width: 1200px;
+    background:rgb(188, 143, 177);
+    width: 100wv;
     margin: auto;
     text-align: center;
     height: 100vh;
